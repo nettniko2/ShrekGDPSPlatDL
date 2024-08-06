@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "dude who cares",
     "records": [
+      {
+            "user": "niko",
+            "link": "https://www.youtube.com/watch?v=HCkPVkFh72g",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
