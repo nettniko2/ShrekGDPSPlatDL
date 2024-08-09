@@ -7,7 +7,13 @@
     "verification": "https://youtu.be/6cG_XuMX4Tk",
     "percentToQualify": 100,
     "password": "cockweiner",
-    "records": [  
-	]
+    "records": [
+      {
+            "user": "dylpnaner",
+            "link": "https://www.youtube.com/watch?v=3zWFCHIPjWg",
+            "percent": 100,
+            "hz": 120
+      }
+    ]
 }
 
