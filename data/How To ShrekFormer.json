@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Zoey Sigma",
     "records": [
+      {
+            "user": "niko",
+            "link": "https://youtu.be/5-YlFxwAS48",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
