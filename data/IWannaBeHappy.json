@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "luna level",
     "records": [
+      {
+            "user": "niko",
+            "link": "https://youtu.be/zwUxvsddiew",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
